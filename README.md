@@ -101,3 +101,8 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 1. Click *Create pull request* to open the pull request.
 1. Congrats! You have created your first pull request!
 1. In Canvas, please copy the link to the pull request you created to submit your assignment. For this practice exercise I will not be merging your request. But in a real open-source repository, a *maintainer* would give you feedback on your changes, and if they were happy with them the would *merge* your PR (accept your changes into the original version).
+
+-----
+DANIEL KHILCHENKO'S CHANGES:
+everyone should eat cheesecake
+thats it
